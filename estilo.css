@@ -1,8 +1,23 @@
-body{
-    background-color: chocolate;
+h1{
+color: red;
+}
+.primeiro{
+    display: inline-block;
+    padding: 30px;
+    
+background-color: rgb(255, 143, 15);
+}
+.segundo{
+    
+    padding: 30px;
+    background-color: rgb(255, 143, 15);
+    width: 37%;
 }
 
-#btn{
-    background-color:burlywood;
-    padding: 10px;
+#resultado{
+    text-align: center;
+    width: 37%;
+    padding: 30px;
+    background-color:  rgb(25, 73, 31);
+ color: rgb(255, 255, 255);
 }
