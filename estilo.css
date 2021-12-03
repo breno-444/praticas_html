@@ -2,23 +2,7 @@ body{
     background-color: chocolate;
 }
 
-#link{
-    list-style: none ;
-    box-sizing: content-box;
-
-   padding: 0;
-}
-#link li{
-   
-    display: inline;
-}
-#link li a{
-    background-color: blue;
-    padding: 20px;
-    display: inline-block;
-    text-decoration: none;
-   color: white;
-}
-h2{
-    color: white;
+#btn{
+    background-color:burlywood;
+    padding: 10px;
 }
